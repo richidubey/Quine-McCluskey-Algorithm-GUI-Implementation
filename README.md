@@ -1,2 +1,2 @@
-# Quine-McCluskey-Algorithm-GUI-Implementation
-Implements simplification of boolean expression given in Sum-Of-Product format
+# Quine-McCluskey-Algorithm-GUI-Implementation-
+This repo contains code that'll implement QM Method to minimize boolean expression given in maximum sum of product form.
